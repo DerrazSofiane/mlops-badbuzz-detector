@@ -1,6 +1,6 @@
 # MLOps Bad Buzz Detector 🚨
 
-## OpenClassrooms Project 7: Deep Learning for Sentiment Analysis
+## Project: Deep Learning for Sentiment Analysis
 
 ### 📋 Project Overview
 An end-to-end MLOps project implementing a sentiment analysis system to detect potential "bad buzz" on social media. Built for Air Paradis (fictional airline) to monitor and anticipate negative publicity on Twitter.
@@ -149,9 +149,6 @@ print(response.json())
 ### 📚 Documentation
 - See the included blog article PDF for detailed methodology
 - PowerPoint presentation available for business stakeholders
-
-### 🤝 Contact
-Created by Sofiane Derraz as part of the OpenClassrooms AI Engineer certification program.
 
 ---
 *Note: This educational project demonstrates production-ready ML engineering practices applicable to real-world brand monitoring and crisis prevention systems.*
